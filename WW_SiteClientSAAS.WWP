@@ -1,0 +1,200 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_SiteClientSAAS
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAADmg6Vbv4riiGzHSPk6c+JOSqwwKqeXefUedwzKiix/pwgnlJ49+id/P+QGlZxKcFj1QHNYQwl3PqCiqw22MQRpsJ/hWYVP4wQYNGe6/KnfkQRJywoAdBhz9IqZzs6S1dof6BcqpExgozGoL5QkOLJ2W7Tza6BQhqH2bdtGTBFj9gLa7RW5Px+xm3O71JEe0XJcDiHMDmx3mtG52O3gfZIiXVi4PjjpMeCzgwAaxXQXIdm7brY87flnAIUQjfycI2gAyxCauP+7X1CtW1b80+4resLNyaVwcIkd86aTZsFlk4clQGNDnkT/8AI2nF1rqKtnSauSRlfEdXqC72fhQWwZewt64XPTd84PdReCPKF6B45qtmZfXxMTo/h7N6dzqmI61D8LkwyI3kK5eVXF0WUjEPDfbqxBVlcjWczMJNsGOYc6AHRj89FTvq8DMwEPqruPNLtWNyozVOk0wwn5tgTR0QQIHFmb9rbd6Eeuv4h+rJnPc/Lzvd6NPQlPr8mTAoF3pO905hy5tidW4WhyxalWShd/XweUcXdhYBISDJ4ukcDbUxeAxqwaexydUuc3X+Xoso0p7mWeWK9gn3zv07vDeBwYpz1BGA9qZ5rI5CePxSGvgq9qHKoLf68RvzLqYz6a3mV1MtNBc2G4AYn4rd1w9ZZ0hzPpUOXBoERpQ7uK0h26cCBBmofeDrKMcMah7BZMpbypg2WxQdMsnR4UIzbgMhC3OpxsBoCNv5AV+Uf5eMq3/sBtwDg/bGqB7orGDCVLMj46c+kcc6y/L1LzxUtBRfoHYtdvtuNuebHzS05ksRXOsue1bI+6SG9kf6P0ptKNpA6cnV0oUKGE80AIsVuqcKO8ILrOVvqp36kUug/463dtjNd84i2Fy7/LAX7UOBwY+Z09sxEgI3Q4VsrZrWcg/dnR3OYKWy/jKfqujjowf1+k6lNioVTbjhKi1xGQekPgs9mzVUceqb938mdHQydoXqOisyX59m+DNKzl2cKRPNUH1lpOW+qdQfUH6/tH+0MMzsiji008S1teUgvWNSakeiAUqUxfY7guCWagErSTZ8KmrFqDjE09njtXpd+KjFKQVDOXH2TagU72kHwI0XEY7JAWskcGendzL1FGnh/SFR4fXwQ8gUG6D4ifzSOaz8Iwfy4veIFc8sS8MNAAFD8x6SALdqCw/cirkpzvGpHPhFzAUlWcb9ZaQEhhbEeYMZuIKtq2ZTChTycj098hvVOFsKbWfUf3qJdoUO6KxIrzRGYOJOxRDug6mLl09MaoL/xId1F5V6Q9wPbDChxHXB8k6eA+onBV/AtEC10kS5AGT4BdOWdRitc7X2yGNUc4uGHXJXzr7ytFknTGkaHhkusX6gfalNKK8bgb8ExC0ovhwt/VyTmQdydNcddlW24QgEUn7iyYuj9mklmlcoj7BX18t4qMLNNZOo8Q1csCQbsBCg6cJeAAFglmKfRfuqt7ZZYzMhcXooEB2atJ5WmLTAqEWmYJbxc7mD9s6cNnD6omkimTFDaacu8KZbQtnacgV3YD+D6wF3qyP1WRoRNS8iblG0k/c1i+mOGtRT/B/uo/hC+axxZx171+wI09fhWInw/e/pZnRrWcSfgw8t5uQKhLFzt1gO5Zq8KBegRIwyvgEnad6w0DQFbiVo+8e+197C2ptldl8snSvnFSOLoTrv8FJDS/tmM3MUZ94HYvPNdiLSjdIIPNadkfZApGuBjQHiUAo+gIjCcN96wMWfjIM+0zEWxZ3FgY+zlcc63L6L18xW4KaYdlFtM6cx7QVd7Id9qkcMxlcoJMXTVNoWjUtPeqtxrQMp2M2t6T0XapOlPBFvvadCTgwe/mWWY+8vLVSZbUCBsHddmcFf1v6L2jXSXeHw5yWhLlMNpm62XjXYnaOadyBAlMqVZLeZYub/Gt4ub2EfRorN7oex2szGA5+QUjriy4Q2GH724=
+ configurations :
+  -
+    name : WW_SiteClientSAAS
+    internal_properties : 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
+    configuration_id : 16492684416639967424
+    type : 2
+    generation_name : WW_SiteClientSAAS.wdl
+    version : {}
+    language : 1
+    64bits : true
+ elements :
+  identifier : 0x4b8527590002ccf4
+  elements :
+   -
+     name : PAGE_CommandeEnErreur
+     identifier : 0x4d36df910011c127
+     internal_properties : CAAAAAgAAABBPbnt2oevQA543AHqJaUBoSCoMJYLNf1OJwDn/w4ExATM0Sjh3w8Sa9LMNPz0jHxEzA==
+     physical_name : .\PAGE_CommandeEnErreur.wwh
+     type : 65538
+   -
+     name : PAGEMOD_ModelePrincipal
+     identifier : 0x4b8528560008ac4a
+     internal_properties : CAAAAAgAAACkooyoF0zkh1PNNZoTtzSAIKMvtw/lqIiK9ETsj4yAQIRKUZhwSHb7ACeRbzepUUexsQ==
+     physical_name : .\PAGEMOD_ModelePrincipal.WWT
+     type : 65541
+   -
+     name : PAGE_Commande
+     identifier : 0x4b863d52001134e5
+     internal_properties : CAAAAAgAAABDzdrxUkRxBHIWAmsq8J/OuKc6QYR8Hrk7mx6ZtFds+sObPSaua9E4zgRXJYCQblXG
+     physical_name : .\PAGE_Commande.wwh
+     type : 65538
+   -
+     name : PAGE_CommandeValidee
+     identifier : 0x4b8bcddd00154ec1
+     internal_properties : CAAAAAgAAAAeBHYqmcZuAcknm0y1oyLKgjF5MR0x8wm2GavaU6jsHCzGMbhWosxRqpEL9b0zz8ELCw==
+     physical_name : .\PAGE_CommandeValidee.wwh
+     type : 65538
+   -
+     name : PAGE_CompteClient
+     identifier : 0x4d347a40006c0315
+     internal_properties : CAAAAAgAAAAQ7khUUwggO4fhab5Hnsj0xLUTe9PuD8Khuk5sRqd1k31lWo+MdJqf5FtFs3NtFYt1/Q==
+     physical_name : .\PAGE_CompteClient.wwh
+     type : 65538
+   -
+     name : pGlobales
+     identifier : 0x4b8babe80014a788
+     internal_properties : CAAAAAgAAACa8EJGZSKKlV3Lb7BJicr6xqkVdb0BEWRCrpvQXa5uinZkW46CfqCl/iWfGZlXI5V/hw==
+     physical_name : .\pGlobales.wdg
+     type : 7
+   -
+     name : PAGE_SiteEtTarifications
+     identifier : 0x4b8528e7000be229
+     internal_properties : CAAAAAgAAAAiGBoOverC3eUDd1ih8l6e9qsF5WdNVkCqUOkH6CPpf3Vpcvcqlri9xn1nUdEP690nLw==
+     physical_name : .\PAGE_SiteEtTarifications.wwh
+     type : 65538
+   -
+     name : PAGE_Connexion
+     identifier : 0x4b863d2a000d9710
+     internal_properties : CAAAAAgAAAB60KLmxYKqtb3rD9Apa+YeZsU9pQEg6MS28Qg1o3ikrAT++XCiHkDF3kW/Ofn3g3Vf5w==
+     physical_name : .\PAGE_Connexion.wwh
+     type : 65538
+   -
+     name : COL_TestAuto
+     identifier : 0x424e801d00409196
+     internal_properties : CAAAAAgAAABWPL7iwb72+UGvE8Q9UP4u4rMZUftHzJ6QUhR7fpF7jX93BFXOKlTZIhmDfQX7h3lDww==
+     physical_name : .\COL_TestAuto.wdg
+     type : 7
+   -
+     name : TEST_COL_TestAuto
+     identifier : 0x424e802d0042cd4e
+     internal_properties : CAAAAAgAAABLx7NXVBEZwoz6Urt8kD//25RmhkzAw0WwimYxukXJX1VLUpePaZWY7VROqmpmEoZO1g==
+     physical_name : .\TEST_COL_TestAuto.wxt
+     type : 17
+  other_elements : []
+  analysis : .\WW_SiteClientSAAS.ana\WW_SiteClientSAAS.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components :
+   -
+     name : WW_PayBox
+     identifier : 0x40f7f4670ce11386
+     internal_properties : CAAAAAgAAACKrLGjS893/5csM+Zr/YzrY6KdQcMqSmUBd8aRUQAmESXccxQsTZaAKwf+lIqI2XMYzj6Id3CfjdRzWjG0S+8YV8GbYcjGDQ==
+     wdi_physical_name : .\WW_PayBox.wdi
+     wdk_physical_name : .\WW_PayBox.wdk
+     original_name : \\se\ComplementVI\WX26\FR\Encours\Composants\Composants exemples\WB\WW_PayBox\Exe\Composant\WW_PayBox.wdi
+  internal_components : []
+ common_generation_directory : true
+ wb_skin : 150 Pure
+ wb_color_palette : Taste of Winter & Light
+ languages :
+  - fr-FR
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_Commande
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_CommandeEnErreur
+     parameters : []
+     title :
+      fr-FR : WW_SiteClientSAAS - Commande en erreur
+     description :
+      fr-FR : WW_SiteClientSAAS - Commande en erreur
+   -
+     name : PAGE_CommandeValidee
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_CompteClient
+     parameters : []
+     title :
+      fr-FR : WW_SiteClientSAAS - Compte client
+     description :
+      fr-FR : WW_SiteClientSAAS - Compte client
+   -
+     name : PAGE_Connexion
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_SiteEtTarifications
+     parameters : []
+     title : {}
+     description : {}
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAABE161wLti9NFozn8AYzh4TpMNBlUjqtpSz6DJdxPi89jDdjIuJXiPavI4O0m5P+/E3JpineAHdFNklNRswXZtVYEjG
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABrScHXCCTcgMRn9yeamHmcGgRxYftEU2kHSdq1PVVd0ofdAMkvTRFRsL+kdg5KEL1pp2dXA0/ZuuCBRdWRijBTR8vlupEMZGXJadv8oGxh4ih5H3COL/jEHj+9K+v6iBX7oeUYYskCLnp5Ish2/l/EebNsZqycWajLsLUceI6wl5QgoT5yCcjOXALvDQ6wnQdokhBdA4V3WodLvmj23Q==
+     code : |1-
+      CONSTANTE
+      	// /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\
+      	// Les constantes ci dessous doivent ABSOLUMENT être renseignées avec les paramètres de votre serveur SaaS.
+      	csNomServeurSAAS = "localhost" // "<Nom du serveur hébergeant le site SaaS>"
+      	csLoginAdminSAAS = "admin" // "<Login de l'administrateur SaaS> : admin"
+      	csMDPAdminSAAS = "admin" // "<Mot de passe de l'administrateur SaaS> : admin (par défaut)"
+      	// /!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\
+      FIN
+      
+      // Variables globales à l'application
+      gTarificationACommander est un SaaSTarification // Tarification à commander
+      gCompteClientConnecté est un saasclient // CompteClient correspondant à l'utilisateur actuellement connecté
+      gsNomSiteEnCours est une chaine // Nom du site (solution) en cours 
+      gsUtilisateurConnecté est une chaine // Login (email) de l'utilisateur actuellement connecté
+      
+      
+      // Création des fichiers de la base interne du SI
+      // Dans notre base, la rubrique "Email" du fichier "Client" correspond à la rubrique d'authentification
+      // La valeur de cette rubrique doit être renseignée dans la propriété "RéférencesExternes" du compte client SaaS (via le site d'administration SaaS ou par programmation)
+      // Cela permet d'effectuer un lien entre un compte client SaaS et un utilisateur (ou tout autre entité) de la base du SI.
+      HCréationSiInexistant("*")
+     type : 196608
+   -
+     code : |1-
+      // Déconnexion de l'administrateur SaaS
+      SaaSAdmindeConnecte()
+     type : 196610
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WW_SiteClientSAAS
+     identifier : 0x4b8527590003cd51
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
